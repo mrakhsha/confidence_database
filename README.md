@@ -9,6 +9,8 @@ This is a database of simple confidence experiments. The purpose of the database
 - RT_confidence: the confidence reaction time (RT)
 - Difficulty: the contrast, coherence, or any other measure of trial difficulty
 
+All entries are purely numerical (e.g., 1 and 2, rather than "old" and "new") in order to facilitate data compilation and analyses. The meaning of each stimulus category is described separately in the accompnying paper.
+
 For datasets where the stimulus is a continuous quantity (e.g., orientation), the fields "stimulus" and "response" are continuous.
 
 For experiments that collected the decision and confidence with a single button press, RT_confidence is set to 0.
