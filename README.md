@@ -1,4 +1,4 @@
-# confidence_database
+# Database of simple confidence experiments
 
 This is a database of simple confidence studies. The purpose of the database is to enable easy access to the data of many different datasets. The data from each dataset is organized in an identical manner with the following fields:
 - Subj_idx: the subject number
